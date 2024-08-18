@@ -19,7 +19,7 @@
 }
 
 .logo {
-    background-image: url(amazon_logo.png);
+    background-image: url(/image.png/amazon_logo.png);
     height: 50px;
     background-size: cover;
     width: 100%;
@@ -36,7 +36,7 @@
 .add-first {
     color: #cccccc;
     font-size: 0.85rem;
-    display: inline-block;
+    display: inline-block';
     margin-left: 15px;
 }
 
@@ -124,7 +124,7 @@ font-size: 0.85rem;
     font-weight: 700;
 }
 .hero-section{
-    background-image: url(hero_image.jpg);
+    background-image: url(/image.png/hero_image.jpg);
     height: 350px;
     background-size: cover;
     display: flex;
